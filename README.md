@@ -11,16 +11,6 @@
 
 Hi, soy Jorge
 
-</details>
-<summary>My Idiomas perros perritos perrones</summary>
-
-| Yo conozco | Que tan bueno ? |
-|-----:|---------------|
-|     Python| Perrito              |
-|     SQL| Cachorro              |
-|     Tableau|  Perro             |
-</details>
-
 <details>
 <summary>My Idiomas perros perritos perrones</summary>
 
