@@ -21,6 +21,18 @@ Hi, soy Jorge
 |     Tableau|  Perro             |
 </details>
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
+
 <!--
 **ocon-ene/ocon-ene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
