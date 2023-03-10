@@ -1,40 +1,23 @@
-### Hi there 👋
+## Introducing Myself 🙋🏻‍♀️
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+Hi there! I'm Katie, a self-taught data analyst from Malaysia. With a background in accounting, I transitioned to data in 2021 and have been teaching myself SQL, Python, and Tableau ever since.
 
+### 📚 Projects & Guides 📚
+In my portfolio, you can find my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) and guides on data analytics, including my  [guide on transitioning into the field](https://github.com/katiehuangx/Transition-into-Data-Analytics/blob/main/README.md).
 
-## About me
+### 💡 My Skills
+- Data preparation, quality assurance, and analysis
+- Database design and modelling
+- Dashboard development and reporting
+- Exploratory data analysis
 
-Hi, soy Jorge
+### 🛠️ My Tools
+- Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
+- Python: NumPy, Pandas
+- Visualisation: Tableau, Matplotlib, Seaborn
+- Project Management: Trello, JIRA
 
-<details>
-<summary>My Idiomas perros perritos perrones</summary>
-
- Yo conozco | Que tan bueno |
-|-----:|---------------|
-|     Python| Perrito              |
-|     SQL| Cachorro              |
-|     Tableau|  Perro             |
-
-</details>
-
-> Life is pain. Sweet pain.
-
-<!--
-**ocon-ene/ocon-ene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🙌🏻 Connect with Me
+- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
+- [Medium](https://katiehuangx.medium.com)
+- [Kaggle](https://www.kaggle.com/katiehuangx)
