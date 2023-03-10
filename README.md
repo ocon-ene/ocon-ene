@@ -22,7 +22,7 @@ Hi, soy Jorge
 
 </details>
 
-> Life is pqin. Sweet pain.
+> Life is pain. Sweet pain.
 
 <!--
 **ocon-ene/ocon-ene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
