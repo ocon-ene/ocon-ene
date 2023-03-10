@@ -22,7 +22,7 @@ Hi, soy Jorge
 </details>
 
 <details>
-<summary>My top languages</summary>
+<summary>My Idiomas perros perritos perrones</summary>
 
  Yo conozco | Que tan bueno |
 |-----:|---------------|
