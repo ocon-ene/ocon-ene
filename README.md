@@ -22,7 +22,6 @@ Hi, soy Jorge
 
 </details>
 
----
 > Life is pqin. Sweet pain.
 
 <!--
