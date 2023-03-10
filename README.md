@@ -10,6 +10,8 @@
 ## About me
 
 Hi, soy Jorge
+</details>
+<summary>My Idiomas perros perritos perrones</summary>
 
 | Yo conozco | Que tan bueno ? |
 |-----:|---------------|
@@ -17,6 +19,7 @@ Hi, soy Jorge
 |     SQL| Cachorro              |
 |     Tableau|  Perro             |
 
+</details>
 
 <!--
 **ocon-ene/ocon-ene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
