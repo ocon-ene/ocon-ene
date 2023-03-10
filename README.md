@@ -10,6 +10,7 @@
 ## About me
 
 Hi, soy Jorge
+
 </details>
 <summary>My Idiomas perros perritos perrones</summary>
 
@@ -18,7 +19,6 @@ Hi, soy Jorge
 |     Python| Perrito              |
 |     SQL| Cachorro              |
 |     Tableau|  Perro             |
-
 </details>
 
 <!--
