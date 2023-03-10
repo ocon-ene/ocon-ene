@@ -7,6 +7,17 @@
 </picture>
 
 
+## About me
+
+Hi, soy Jorge
+
+| Yo conozco | Que tan bueno ? |
+|-----:|---------------|
+|     Python| Perrito              |
+|     SQL| Cachorro              |
+|     Tableau|  Perro             |
+
+
 <!--
 **ocon-ene/ocon-ene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
