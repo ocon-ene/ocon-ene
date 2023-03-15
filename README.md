@@ -32,6 +32,5 @@ Je suis ingénieur (génie civile) de formation, mais j'ai peu a peu change de m
 
   
 ### 🙌🏻 Connect with Me
-- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
-- [Medium](https://katiehuangx.medium.com)
-- [Kaggle](https://www.kaggle.com/katiehuangx)
+- [Linkedin](https://www.linkedin.com/in/oconjorge)
+- [Datacamp](https://www.datacamp.com/profile/jorgeocon)
