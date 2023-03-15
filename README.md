@@ -2,11 +2,11 @@
 
 ## Hola ! Bonjour ! 
 
-Ciao ! c'est jorge ! l'ingénieur multilingue, je parle plusieurs langues mais pour cette presentation les plus importantes sont Python et SQL.
-Je suis un éngenieur dans le batiment de formation, mais j'ai peu a peu change de metier vers le data, et apres un M1 à distance en Analyste des Données je cherche ma premier oportunité dans le domain 
+Ciao ! c'est jorge ! le data analyste multilingue, je parle plusieurs langues mais pour cette presentation les plus importantes sont Python et SQL.
+Je suis ingénieur (génie civile) de formation, mais j'ai peu a peu change de metier vers le data, et apres un M1 à distance en Analyste des Données je cherche ma premier oportunité dans l'effrayante domaine de l'analyse des données :ghost:
 
-### 📚 Projects & Guides 📚
-In my portfolio, you can find my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) and guides on data analytics, including my  [guide on transitioning into the field](https://github.com/katiehuangx/Transition-into-Data-Analytics/blob/main/README.md).
+### 💻 Current project
+- [financial-go](https://github.com/Jvillegasd/financial-go)
 
 ### 💡 My Skills
 - Data preparation, quality assurance, and analysis
@@ -25,7 +25,7 @@ In my portfolio, you can find my [projects](https://github.com/katiehuangx/Portf
 |-----:|-----------|
 |  <div align="center">![Python](https://img.icons8.com/color/24/null/python--v1.png) | Python |
 |  <div align="center">![SQL](https://img.icons8.com/color/20/null/postgreesql.png) | PostgreSQL |
-|  <div align="center">![Tableau](https://img.icons8.com/color/24/null/tableau-software.png) | Teableau |
+|  <div align="center">![Tableau](https://img.icons8.com/color/24/null/tableau-software.png) | Tableau |
 |  <div align="center">![Excel](https://img.icons8.com/color/24/null/microsoft-excel-2019--v1.png) | Excel |
 
 ### 🙌🏻 Connect with Me
