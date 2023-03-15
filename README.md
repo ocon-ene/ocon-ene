@@ -3,7 +3,8 @@
 ## Hola ! Bonjour ! 
 
 Ciao ! c'est jorge ! le data analyste multilingue, je parle plusieurs langues mais pour cette presentation les plus importantes sont Python et SQL.
-Je suis ingénieur (génie civile) de formation, mais j'ai peu a peu change de metier vers le data, et apres un M1 à distance en Analyste des Données je cherche ma premier oportunité dans l'effrayante domaine de l'analyse des données :ghost:
+Je suis ingénieur (génie civile) de formation, mais j'ai peu a peu change de metier vers le data, et apres un [M1 à distance en Analyste des Données](https://www.francecompetences.fr/recherche/rncp/34964/) je cherche ma premier oportunité dans l'effrayante domaine de l'analyse des données :ghost:
+
 
 ### 💻 Current project : 
 - [PP1 :Où dois je acheter ma maison ? Analyse du marché immobilier avant et post COVID](https://github.com/ocon-ene/SQL_Valeur_fonciere_p1)
@@ -14,7 +15,6 @@ Je suis ingénieur (génie civile) de formation, mais j'ai peu a peu change de m
 - Database design and modelling
 - Dashboard development and reporting
 - Exploratory data analysis
-
 
 
 ### 💡 Mes outils de base
@@ -30,7 +30,6 @@ Je suis ingénieur (génie civile) de formation, mais j'ai peu a peu change de m
 | <div align="left">Connection de la BDD vers l'outil de visualisation | <div align="center">:star::star: | <div align="center">![SQL](https://img.icons8.com/color/20/null/postgreesql.png)![Tableau](https://img.icons8.com/color/24/null/tableau-software.png) | [PP1](https://github.com/ocon-ene/SQL_Valeur_fonciere_p1) |
   
 
-  
 ### 🙌🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/oconjorge)
 - [Datacamp](https://www.datacamp.com/profile/jorgeocon)
