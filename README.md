@@ -10,13 +10,6 @@ Je suis ingénieur (génie civile) de formation, mais j'ai peu à peu changé de
 - [PP1 :Où dois je acheter ma maison ? Analyse du marché immobilier avant et post COVID](https://github.com/ocon-ene/SQL_Valeur_fonciere_p1)
 
 
-### 💻 Skills :
-- Nettoyage des données 
-- Database design and modelling
-- Dashboard development and reporting
-- Exploratory data analysis
-
-
 ### 💡 Mes outils de base
 
 | <div align="center">:school_satchel: **Boite d'outils**  | :chart_with_upwards_trend:Honnete evaluation  | :chart_with_upwards_trend:🛠️ **Outils**  | 💻 Projects |
