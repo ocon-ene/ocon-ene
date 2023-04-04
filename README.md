@@ -31,7 +31,7 @@ Si je peux en tirer trois expériences transférables au métier de data analyst
 
 ### 💡 Mes compétences acquises pendant le Master !
 
-> Rome ne s’est pas faite en un jour
+> Ne cherchez jamais le progrès d’un homme ailleurs que dans ses actes. Épictète
 
 | <div align="center">` Compétences acquises 💡 ` | ` Projets examples ` | ` outils utilsées `
 | :--- | :---: | :---: | 
