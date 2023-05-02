@@ -33,7 +33,7 @@ Si je peux en tirer trois expériences transférables au métier de data analyst
 
 > Ne cherchez jamais le progrès d’un homme ailleurs que dans ses actes. Épictète
 
-| <div align="center">` Compétences acquises 💡 ` | ` Projets examples ` | ` outils utilsées `
+| <div align="center">` Compétences acquises 💡 ` | ` Projets examples ` | ` Outils utilsées `
 | :--- | :---: | :---: | 
 | Configurer une base de données afin d’y intégrer un jeu de données à exploiter. | --- |![SQLpg](https://img.icons8.com/color/28/null/postgreesql.png)|
 | Effectuer des requêtes SQL pour répondre à une problématique métier. | --- | ![SQLpg](https://img.icons8.com/color/28/null/postgreesql.png)![SQL](https://img.icons8.com/ios-filled/28/FFFFFF/sql.png) | 
@@ -42,12 +42,12 @@ Si je peux en tirer trois expériences transférables au métier de data analyst
 | Préparer des données pour l'analyse en respectant les normes internes à l’entreprise. | --- |--- | 
 | Pré-traiter des données stockées en les classifiant et en corrigeant les erreurs et les incohérences présentes. | [PM1](https://github.com/ocon-ene/openclassrooms-Data-Analyst/tree/main/PM1-%C3%A9tude%20de%20sant%C3%A9%20publique) |![python](https://img.icons8.com/color/28/null/python--v1.png)![excel](https://img.icons8.com/color/28/null/microsoft-excel-2019--v1.png) |
 | Réaliser une analyse uni-variée de données pré-traitées afin de les décrire et de détecter les incohérences.  | [PM2](https://github.com/ocon-ene/openclassrooms-Data-Analyst/tree/main/PM1-%C3%A9tude%20de%20sant%C3%A9%20publique) | ![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*Courbe de lorenz*</li><li>*Boxplot*</li><li>*Histogram*</li></ul> | 
-| Analyser un besoin client pour formuler des questions analytiques et définir des indicateurs de suivi. | --- | ![python](https://img.icons8.com/color/28/null/python--v1.png) |
-| Créer les graphiques permettant de représenter les résultats obtenus. | --- | ![python](https://img.icons8.com/color/28/null/python--v1.png)![tableau](https://img.icons8.com/color/28/null/tableau-software.png) | 
+| Analyser un besoin client pour formuler des questions analytiques et définir des indicateurs de suivi. | [PM2](https://github.com/ocon-ene/openclassrooms-Data-Analyst/tree/main/PM1-%C3%A9tude%20de%20sant%C3%A9%20publique) | ![python](https://img.icons8.com/color/28/null/python--v1.png) |
+| Créer les graphiques permettant de représenter les résultats obtenus. | [PM3](https://github.com/ocon-ene/openclassrooms-Data-Analyst/tree/main/PM3-analyse%20des%20ventes%20d'une%20librarie) | ![python](https://img.icons8.com/color/28/null/python--v1.png)![tableau](https://img.icons8.com/color/28/null/tableau-software.png)<br><ul><li>*Barplot*</li><li>*Heatmap*</li></ul>  | 
 | Créer un tableau de bord (dashboard) permettant de visualiser et de mesurer les résultats obtenus en fonction d’indicateurs donnés. | --- |![tableau](https://img.icons8.com/color/28/null/tableau-software.png)  |  
-| Réaliser une analyse multi-variée pour comprendre la corrélation entre des variables et les synthétiser.   | --- |![python](https://img.icons8.com/color/28/null/python--v1.png) |
-| Analyser des séries temporelles pour mesurer un phénomène au cours du temps. | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)| 
-| Réaliser un test statistique afin de vérifier une prédiction.  | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)| 
+| Réaliser une analyse multi-variée pour comprendre la corrélation entre des variables et les synthétiser.   | [PM3](https://github.com/ocon-ene/openclassrooms-Data-Analyst/tree/main/PM3-analyse%20des%20ventes%20d'une%20librarie) |![python](https://img.icons8.com/color/28/null/python--v1.png) |
+| Analyser des séries temporelles pour mesurer un phénomène au cours du temps. | [PM3](https://github.com/ocon-ene/openclassrooms-Data-Analyst/tree/main/PM3-analyse%20des%20ventes%20d'une%20librarie) |![python](https://img.icons8.com/color/28/null/python--v1.png)| 
+| Réaliser un test statistique afin de vérifier une prédiction.  | [PM3](https://github.com/ocon-ene/openclassrooms-Data-Analyst/tree/main/PM3-analyse%20des%20ventes%20d'une%20librarie) |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*Test de Man Whitneyu*</li><li>*Test de Bartlett*</li><li>*Test de shapiro*</li></ul>| 
 | Mettre en œuvre une méthode d’apprentissage supervisée pour réaliser une analyse prédictive.  | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)|
 | Mettre en œuvre une méthode d’apprentissage non supervisée pour opérer des classifications automatiques et partitionner des données. | --- |![python](https://img.icons8.com/color/28/null/python--v1.png)<br><ul><li>*Regression lineaire*</li><li>*K-means*</li></ul>| 
 
