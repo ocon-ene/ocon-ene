@@ -33,7 +33,7 @@ Si je peux en tirer trois expériences transférables au métier de data analyst
 
 > Ne cherchez jamais le progrès d’un homme ailleurs que dans ses actes. Épictète
 
-| <div align="center">` Compétences acquises 💡 ` | ` Projets examples ` | ` Outils utilsées `
+| <div align="center">` Compétences acquises 💡 ` | ` Projets exemples ` | ` Outils utilsées `
 | :--- | :---: | :---: | 
 | Configurer une base de données afin d’y intégrer un jeu de données à exploiter. | --- |![SQLpg](https://img.icons8.com/color/28/null/postgreesql.png)|
 | Effectuer des requêtes SQL pour répondre à une problématique métier. | --- | ![SQLpg](https://img.icons8.com/color/28/null/postgreesql.png)![SQL](https://img.icons8.com/ios-filled/28/FFFFFF/sql.png) | 
