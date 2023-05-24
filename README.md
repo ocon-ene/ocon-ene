@@ -4,8 +4,7 @@ En construction - Building...
 
 ## Hola ! Bonjour ! 
 
-Ciao ! c'est jorge ! le data analyst multilingue, je parle plusieurs langues mais pour cette présentation les plus importantes sont Python et SQL.
-Je suis ingénieur (génie civile) de formation, mais j'ai peu à peu changé de metier vers la data, et après un [M1 à distance en Analyste des Données](https://www.francecompetences.fr/recherche/rncp/34964/) je cherche ma première opportunité dans l'effrayant domaine de l'analyse des données :ghost:
+Mon porfolio des projets sur le data analyst ! 
 
 
 ### 💻 Projet en cours : 
