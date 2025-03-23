@@ -8,27 +8,6 @@ Mon porfolio des projets sur le data analyst !
 ### 💻 Projet en cours : 
 - [PP1 :Où dois je acheter ma maison ? Analyse du marché immobilier avant et post COVID](https://github.com/ocon-ene/SQL_Valeur_fonciere_p1)
 
-### 💡 Mon experience proffessionnelle ! 
-
-> Je ne perds jamais, soit je gagne, soit j'apprends. Nelson Mandela
-
-Ingénieur du bâtiment avec 3+ années d’expérience, je fais aujourd’hui une transition vers le métier de Data Analyst. Pendant mon expérience dans l'industrie du bâtiment, j'ai pu travailler dans des grands projets comme la résidence étudiante de l'école polytechnique à Paris et plusieurs bâtiments à Nantes et Rennes. En total j'ai fait l'analyse thermique et/ou acoustique de plus de 500 logements et j'ai réussi à économiser le coût de construction d'entre 200€ à 1000€ par logement avec des études acoustiques optimisées.
-Voici quelques exemples des projets où j'ai participé :
-
-<li>Pour la résidence étudiante de l'école polytechnique j'ai fait une extraction des données de la maquette BIM avec DYNAMO pour pouvoir calculer le coefficient de transfert thermique des installations d'eau chaude et chauffage.</li>
-<li>La résidence O-SLOW sur l’ile de Nantes avait comme particularité que la consommation de chauffage dans la partie réservé aux étudiantes ne devait pas dépasser les 15kW/m2.</li><br>
-
-
-Si je peux en tirer trois expériences transférables au métier de data analyst je choisirais :
-1.	Faire / dire / analyser les informations de façon rigoureuse, claire et simple.
-2.	Le travail en équipe et la communication sont clés pour mener à bien un projet.
-3.	Réélire et revérifier les études (ou le code) avant de les faire tourner.
-
-
-
-### 💡 Mes compétences acquises pendant le Master !
-
-> Ne cherchez jamais le progrès d’un homme ailleurs que dans ses actes. Épictète
 
 | <div align="center">` Compétences acquises 💡 ` | ` Projets exemples ` | ` Outils utilsées `
 | :--- | :---: | :---: | 
